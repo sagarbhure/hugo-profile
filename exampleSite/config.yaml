@@ -126,7 +126,7 @@ params:
     intro: "Hi, my name is"
     title: "Sagar."
     subtitle: "I build next-gen software."
-    content: "I'm a passionate senior software engineer with a focus on developing advanced security solutions to protect deployments and infrastructure. My expertise spans AI Security and eBPF, and I’ve had the privilege of presenting my work at leading industry conferences, including BlackHat, NorthSec, HITCON, Hack in Paris, APISecure, and HITB Security"
+    content: "I am a passionate Senior Software Engineer with a specialization in developing advanced security solutions to protect deployments and infrastructure. My expertise encompasses AI Security and eBPF. I have had the honor of presenting my work at esteemed industry conferences, including BlackHat, SecTor, NorthSec, HITCON, Hack in Paris, APISecure, and HITB Security."
     image: /images/sbhure.jpeg
     bottomImage:
       enable: true
@@ -202,15 +202,29 @@ params:
     # title: "Custom Name"
     items:
       - job: "Senior Software Engineer"
-        company: "F5 Networks"
-        companyUrl: "https://f5.com"
-        date: "Mar 2020 - present"
+        company: "Microsoft"
+        companyUrl: "https://microsoft.com"
+        date: "Mar 2020 - Feb 2025"
         featuredLink:
           enable: true
           name: "View the project"
           url: "https://www.f5.com/cloud/use-cases/web-application-and-api-protection-waap"
         content:  | 
-         I'm currently working in the WAAP/WAF product line, developing cutting-edge software to safeguard your applications and infrastructure from cybercriminals.
+         Working in the MS Windows organization on AI features to enhance user experience in the search space:
+
+         - Focused on making the search experience seamless. 
+         - Implementing advanced AI technologies to windows devices.
+  
+      - job: "Senior Software Engineer"
+        company: "F5 Networks"
+        companyUrl: "https://f5.com"
+        date: "Mar 2020 - Feb 2025"
+        featuredLink:
+          enable: true
+          name: "View the project"
+          url: "https://www.f5.com/cloud/use-cases/web-application-and-api-protection-waap"
+        content:  | 
+         As part of my experience working in the WAAP/WAF product line, developing cutting-edge software to safeguard your applications and infrastructure from cybercriminals.
 
          - Co-Lead OWASP ML top 10, Compiling the top 10 critical attack vectors for machine learning deployments.
          - Leading OSS tools eBPFShield that utilize eBPF for kernel-level observability and security, safeguarding your network.
@@ -221,7 +235,7 @@ params:
         date: "Aug 2019 - Feb 2020"
         featuredLink:
           enable: true
-          url: "https://www.youtube.com/watch?v=IcnYh_yLTGE"
+          url: ""
         info:
           enable: true
           content: I worked as senior engineer for one year in Qualcomm, Hyderabad IN.
@@ -237,7 +251,7 @@ params:
           content: I worked as a software specialist for two years in PTC Softwares, Pune IN.
         featuredLink:
           enable: true
-          url: "https://m.youtube.com/watch?v=wxPBmWPWl0U"
+          url: ""
         content: |
           
           At PTC Software, I enhanced Pro/Engineer graphics, led AI projects, improved Creo 6.0 performance, facilitated model naming, and integrated Ansys Live graphics.
