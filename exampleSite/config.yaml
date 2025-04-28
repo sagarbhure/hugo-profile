@@ -204,7 +204,7 @@ params:
       - job: "Senior Software Engineer"
         company: "Microsoft"
         companyUrl: "https://microsoft.com"
-        date: "Mar 2020 - Feb 2025"
+        date: "Mar 2025 - present"
         featuredLink:
           enable: true
           name: "View the project"
